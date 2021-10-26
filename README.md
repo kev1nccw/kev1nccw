@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my GitHub! 👋
+
+Hi there, my name is Kevin :D
 
 <!--
 **kchan825/kchan825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
