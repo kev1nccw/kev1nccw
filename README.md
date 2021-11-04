@@ -8,6 +8,7 @@ Here are some facts about myself:
 - I've started coding since 14 years old and my first language is C++
 - I'm a big fan of Pokémon and my favorite Pokémon is [Snorlax](https://bulbapedia.bulbagarden.net/wiki/Snorlax_(Pok%C3%A9mon))
 
+Nice to meet you and I hope you find something interesting here :)
 <!--
 **kchan825/kchan825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
